@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrap{
+    width: 100%;
+    height: 8000px;
+}
+.nav {
+    width: 100%;
+    height: 2%;
+    max-height: 300px;
+}
+
+.container {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.nav_1{
+    width: 100%;
+    height: 20%;
+}
+
+.nav_2 {
+    width: 100%;
+    height: 50%;
+}
+
+.nav_3 {
+    width: 100%;
+    height: 30%;
+}
+
+
+.product_ad {
+    width: 100%;
+    height: 8%;
+    max-height: 450px;
+}
+
+.product {
+    height: 10%;
+    max-height: 700px;
+    margin-top: 5em;
+}
+
+.product_div {
+    width: 20%;
+    height: 60%;
+    display: inline-block;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+.time_sale {
+    width: 100%;
+    height: 10%;
+    max-height: 700px;
+    margin-top: 5em;
+}
+
+.time_sale_div1{
+    height: 100%;
+    width: 33%;
+    display: inline-block;
+}
+
+.time_sale_div2{
+    height: 100%;
+    width: 66%;
+    display: inline-block;
+}
+
+.event{
+    width: 100%;
+    height: 10%;
+    max-height: 700px;
+    margin-top: 5em;
+}
+
+.h1_pt{
+    padding-top: 2.5em;
+}
+
+.h1_pt2{
+    padding-top: 2em;
+}
+
+.event_div{
+    display: inline-block;
+    width: 30%;
+    height: 50%;
+    margin-left: 2.3%;
+    margin-top: 3em;
+}
+
+.banner {
+    width: 100%;
+    height: 2.5%;
+    max-height: 250px;
+    margin: 3em auto
+}
+
+.recommend{
+    width: 100%;
+    height: 12%;
+    max-height: 840px;
+}
+
+.recommend_ul{
+
+}
+
+.recommend_ul li {
+    display: inline;
+}
+
+@media screen and (max-width: 720px) {
+    /* 모바일 */
+
+
+
+}
+
+
+
